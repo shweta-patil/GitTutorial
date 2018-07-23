@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Git Tutorial")
+        print("Add another print")
     }
-
 }
 
